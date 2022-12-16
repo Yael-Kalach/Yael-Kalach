@@ -1,16 +1,38 @@
-### Hi there 👋
+# 👋 Hi, I'm Yael!
 
-<!--
-**Yael-Kalach/Yael-Kalach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A junior fullstack developer ready to take on the world.
 
-Here are some ideas to get you started:
+### ⚒️ Skills
+- HTML5
+- CSS3
+- JS
+- React
+- Node
+- Express
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Other Skills
+- Graphic design
+- Figma
+- Photoshop
+- Illustrator
+- Blender
+- Clip studio paint
+
+### 📫 How to reach me
+[Linkedin](https://www.linkedin.com/in/yael-kalach/)
+
+### 😄 Pronouns
+She/Her or They/Them
+
+### ⚡ Fun fact
+I studied game design (art course) for 3 years! While I started my journey as a programmer in the Web field, I intend to become a game dev in the future.
+
+### 🎮 Hobbies
+- Gaming
+- Baking
+- Drawing
+- Dungeons & Dragons
+- Embroidery
+- Chilling out with my partner and our cats
+- Hanging out with friends
