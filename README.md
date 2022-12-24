@@ -22,9 +22,6 @@
 ### 📫 How to reach me
 [Linkedin](https://www.linkedin.com/in/yael-kalach/)
 
-### 😄 Pronouns
-She/Her or They/Them
-
 ### ⚡ Fun fact
 I studied game design (art course) for 3 years! While I started my journey as a programmer in the Web field, I intend to become a game dev in the future.
 
